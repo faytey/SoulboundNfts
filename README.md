@@ -1,4 +1,4 @@
-# SoulboundNFT's Smart Contract Documentation
+# SoulboundNFT Smart Contract Documentation
 
 ## Introduction
 
